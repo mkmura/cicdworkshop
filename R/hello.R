@@ -17,6 +17,7 @@ hello <- function() {
 #' @author Yourself
 #' @details Demonstrates cyclomatic complexity
 #' @return Surprised Message!
+#' @param x character, check
 #' @export
 #' @examples
 #' linter_ex("lint")
